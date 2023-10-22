@@ -1,0 +1,50 @@
+1001, Bottled Water, Beverages, Aquafina,1.99,200,true
+1002, Soda (12 oz), Beverages, Coca-Cola,1.49,150,true
+1003, Chips (Classic), Snacks, Lays,2.49,300,true
+1004, Chocolate Bar, Snacks, Hershey,1.29,250,true
+1005, Granola Bars, Snacks, Nature Valley,3.99,120,true
+1006, Banana, Fruits, Dole,0.49,75,true
+1007, Apple, Fruits, Washington Apples,0.69,100,true
+1008, Toothpaste, Personal Care, Colgate,2.99,50,true
+1009, Shampoo, Personal Care, Pantene,4.99,40,true
+1010, Toilet Paper (4 rolls), Household, Charmin,3.79,60,true
+1011, Cereal (Corn Flakes), Breakfast, Kellogg\s,3.99,90,true
+1012, Milk (1 Gallon), Dairy, DairyPure,2.49,40,true
+1013, Eggs (Dozen), Dairy, Farm Fresh,1.99,50,true
+1014, Coffee (12 oz), Beverages, Starbucks,6.99,70,true
+1015, Gummy Bears, Candy, Haribo,1.79,120,true
+1016, Paper Towels (2 rolls), Household, Bounty,2.99,55,true
+1017, Laundry Detergent, Household, Tide,8.49,30,true
+1018, Potato Chips (BBQ), Snacks, Ruffles,2.99,70,true
+1019, Ice Cream (Vanilla), Frozen Foods, Breyers,4.49,35,true
+1020, Peanut Butter, Condiments, Jif,3.29,80,true
+1021, Pretzels, Snacks, Snyder\s,2.49,90,true
+1022, Popcorn (Butter Flavor), Snacks, Orville Redenbacher,1.99,60,true
+1023, Tortilla Chips, Snacks, Doritos,2.79,70,false
+1024, Trail Mix, Snacks, Planters,3.49,45,false
+1025, Rice Cakes, Snacks, Quaker,2.29,85,false
+1026, Candy Bars Assortment, Snacks, Nestle,1.59,100,false
+1027, Potato Chips (Salt & Vinegar), Snacks, Pringles,2.99,75,false
+1028, Beef Jerky, Snacks, Jack Link\s,4.99,40,false
+1029, Cheese Puffs, Snacks, Cheetos,1.99,80,false
+1030, Mixed Nuts, Snacks, Blue Diamond,3.79,55,false
+1031, Iced Tea (Bottled), Beverages, Lipton,1.79,60,false
+1032, Energy Drink, Beverages, Red Bull,2.99,40,false
+1033, Orange Juice (64 oz), Beverages, Tropicana,3.49,55,false
+1034, Fruit Punch, Beverages, Capri Sun,1.49,70,false
+1035, Lemonade, Beverages, Minute Maid,1.99,75,false
+1036, Mango Smoothie, Beverages, Bolthouse Farms,2.99,40,false
+1037, Coconut Water, Beverages, Vita Coco,2.49,50,false
+1038, Sparkling Water, Beverages, LaCroix,1.29,80,false
+1039, Cola (2 Liter), Beverages, Pepsi,1.99,65,false
+1040, Sports Drink (Gatorade), Beverages, Gatorade,1.69,90,false
+1041, Toothbrush (Pack of 4), Personal Care, Oral-B,5.99,50,false
+1042, Deodorant, Personal Care, Dove,2.49,70,false
+1043, Shaving Cream, Personal Care, Gillette,3.29,60,false
+1044, Hand Soap (Refill), Personal Care, Softsoap,4.99,45,false
+1045, Shampoo and Conditioner Set, Personal Care, Herbal Essences,6.99,40,false
+1046, Razors (Pack of 5), Personal Care, Schick,7.49,55,false
+1047, Toilet Paper (12 rolls), Personal Care, Cottonelle,8.99,30,false
+1048, Mouthwash, Personal Care, Listerine,3.79,65,false
+1049, Feminine Hygiene Products, Personal Care, Always,4.49,25,false
+1050, Hair Gel, Personal Care, LOréal,2.29,75,false
